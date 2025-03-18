@@ -8,6 +8,13 @@ Hare ahre hare heare
 Hare hare
 hare
 
+Class A {
+
+
+}
+
+80% done
+
 Class B {
 
 Feature 2
