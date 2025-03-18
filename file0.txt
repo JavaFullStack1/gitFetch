@@ -8,3 +8,8 @@ Hare ahre hare heare
 Hare hare
 hare
 
+Class B {
+
+Feature 2
+
+}
